@@ -27,10 +27,10 @@ import socialGastronomy from '../../img/socialGastronomy.png'
 import tallerMacera from '../../img/tallerMacera.png'
 import tele13 from '../../img/tele13.jpg'
 
-import './Colaboradores.css'
+import './ColaboradoresPortal.css'
 
 
-const Colaboradores = () => {
+const ColaboradoresPortal = () => {
     return (
 
         <div className="contenedorColaboradores pt-5">
@@ -40,13 +40,11 @@ const Colaboradores = () => {
                     <div className="mensajeColaboradores">
                         <h1> Nuestros <strong> Colaboradores</strong></h1>
                         <p>
-                        Contamos con una alianza de colaboradores que desde sus cocinas proveen de <br />
-                        alimento saludable y nutritivo a quienes más lo necesitan. Nada sería posible sin ellos. <br />
-                        ¿Te gustaría unirte a nuestra red de colaboradores?
+                            Más de 20 emprendimientos se han unido a la familia de Comida <br />
+                            Para Todos, apoyando desde distintas áreas: <strong>la comunicación, la <br />
+                            organización</strong> y <strong>la gastronomía.</strong>
                             </p>
-                            <button className="btn-aprender">Aprender más</button>
                     </div>
-
 
                 </div>
 
@@ -92,4 +90,4 @@ const Colaboradores = () => {
     )
 }
 
-export default Colaboradores
+export default ColaboradoresPortal

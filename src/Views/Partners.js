@@ -4,7 +4,7 @@ import Footer from '../Components/Footer/Footer';
 import { FullPage, Slide } from 'react-full-page';
 import PortalColaboradores from '../Components/PortalColaboradores/PortalColaboradores'
 import SerColaborador from '../Components/PortalColaboradores/SerColaborador.jsx'
-import Colaboradores from '../Components/Colaboradores/Colaboradores.jsx'
+import ColaboradoresPortal from '../Components/Colaboradores/Colaboradores.jsx'
 import '../Styles/Main.css';
 import Capacidades from '../Components/PortalColaboradores/Capacidades';
 import Sumate from '../Components/PortalColaboradores/Sumate'
@@ -27,7 +27,7 @@ const Partners = () => {
                     <Sumate />
                 </Slide>
                 <Slide>
-                    <Colaboradores />
+                    <ColaboradoresPortal />
                 </Slide>
                 <Slide>
                     <Footer />

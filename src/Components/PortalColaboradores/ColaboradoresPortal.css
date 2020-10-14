@@ -44,22 +44,3 @@
 
     margin-left: 118px;
 }
-
-.btn-aprender {
-    width: 243px;
-    height: 58px;
-    background-color: transparent;
-    border: 2px solid #FA6E20;
-    border-radius: 10px;
-    font-family: "Roboto", sans-serif;
-    font-weight: bold;
-    font-size: 24px;
-    color: #FA6E20;
-}
-
-.btn-aprender:hover {
-    cursor: pointer;
-    background: linear-gradient(180deg, #FF9029 0%, #F34B14 100%);
-    color: #F9F9F9;
-    border: none;
-}
