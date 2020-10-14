@@ -13,7 +13,7 @@ const Footer = () => {
     return (
         <div className="containerFooter px-lg-2 pt-5 pb-2 mb-2">
             <div className="footer-meddle">
-                <div className="main-container px-lg-4 pt-5 pb-6">
+                <div className="main-containerFooter px-lg-4 pt-5 pb-6">
                     <div className="row">
                         {/*colum 1*/}
                         <div className="elLogoNaranjo">
@@ -30,7 +30,7 @@ const Footer = () => {
                     <div className="contacto">
                         <ul className="list-unstyled">
                             <div className="titulo">
-                                <h1> Escríbenos, <strong> te leemos</strong></h1>
+                                <h2> Escríbenos, <strong> te leemos</strong></h2>
                             </div>
 
                             <li><input className="nombre" placeholder="Nombre Completo"></input></li>
@@ -71,7 +71,7 @@ const Footer = () => {
                     </div>
 
                 </div>
-                <div className="main-container px-lg-4 pt-5 pb-6">
+                <div className="main-containerFooter px-lg-4 pt-5 pb-6">
                     <div className="contenedorrow row">
                         <div className="contenedorContenedor">
                             <div className="contenedorRestaurante">
@@ -115,7 +115,7 @@ const Footer = () => {
                                 </ul>
                             </div>
                             <div className="contenedorSociales">
-                                <h4>Red de Colaboradores Sociales</h4>
+                                <h4>Red de Colaboradores <br />Sociales</h4>
                                 <ul className="list-unstyled">
                                     <li className="liname">Las Condenadas</li>
                                     <li className="liname">La Chimba</li>
@@ -123,7 +123,7 @@ const Footer = () => {
                                 </ul>
                             </div>
                             <div className="contenedorCordinadoras">
-                                <h4>Organizaciones Coordinadoras</h4>
+                                <h4>Organizaciones  <br />Coordinadoras</h4>
                                 <ul className="list-unstyled">
                                     <li className="liname">Cultiva</li>
                                     <li className="liname">Gastronomia Social</li>
@@ -137,7 +137,8 @@ const Footer = () => {
 
                         <p className="parrafo text-xs-center py-3">
                             &copy;{new Date().getFullYear()} Comida para todos -
-                        Todos los derechos reservados | <Link to="/Administrador"> <p>Ingresar como Administrador</p> </Link>
+                        Todos los derechos reservados | 
+                        <Link to="/Administrador"> Ingresar como Administrador</Link>
                     </p>
                     </div>
                 </div>
