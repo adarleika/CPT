@@ -1,5 +1,6 @@
 import React from 'react'
-import './PortalColaboradores.css';
+import './PortalColaboradores.css'
+import flechaHeader from '../../img/flechaHeader.svg'
 
 
 
@@ -19,7 +20,15 @@ const PortalColaboradores = () => {
                             </h1>
                         </div>
                     </div>
+                    
+            
                 </div>
+                <div className="flechaHeader1">
+            <img 
+            src={flechaHeader}
+            alt="flecha"
+            />
+            </div>
             </div>
         </div>
 

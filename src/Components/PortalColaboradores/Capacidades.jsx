@@ -17,7 +17,7 @@ const Capacidades = () => {
                         <h1>Capacidades entregadas <br /><strong>al territorio</strong></h1>
                         <div className="msjCapacidades">
                             <ul className="list-unstyled">
-                                <li className="liname">
+                                <li className="linameTexto">
                                     Restaurantes y productores de la alianza ponen a disposición sus <br />
                                     conocimientos para que la comunidad, comedores sociales y cocinerías <br />
                                     de las comunas vulnerables beneficiarias reciban capacitación.
