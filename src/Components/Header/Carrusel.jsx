@@ -17,7 +17,7 @@ const Carrusel = () => {
           <Carousel.Caption className="carouselMensaje" >
             <div class="container ">
               <p>Regala una cena en esta <strong>Navidad</strong>. Escribamos juntos <strong>la receta para un mejor país</strong>.</p>
-              <button type="button" className="btn btn-ttc" >
+              <button type="button" className="btnCarrusel" >
                Donar una Cena Navideña
               </button>
             </div>
@@ -32,7 +32,7 @@ const Carrusel = () => {
           <Carousel.Caption className="carouselMensaje" >
             <div class="container ">
               <p>Puedes aportar con un <strong>almuerzo solidario </strong> por solo <strong>$3.000 CLP</strong></p>
-              <button type="button" className="btn btn-ttc" >
+              <button type="button" className="btnCarrusel" >
                 Donar un Almuerzo Solidario
               </button>
             </div>

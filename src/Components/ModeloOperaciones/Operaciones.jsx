@@ -5,6 +5,12 @@ import Restaurant from '../../img/Restaurant.svg'
 import Transporte from '../../img/Transporte.svg'
 import Distribucion from '../../img/Distribucion.svg'
 import Apadrinamiento from '../../img/Apadrinamiento.svg'
+import num1 from '../../img/num1.svg';
+import num2 from '../../img/num2.svg';
+import num3 from '../../img/num3.svg';
+import num4 from '../../img/num4.svg';
+import num5 from '../../img/num5.svg';
+import num6 from '../../img/num6.svg';
 import { Figure } from 'react-bootstrap';
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
@@ -48,6 +54,10 @@ const Operaciones = () => {
              </div>
           <Carousel className="CarruselOperaciones" responsive={responsive}> 
             <div className=" tarjetasModelo">
+            <img className="num"
+            src={num1}
+            alt="Num1"
+            />
               <div className="ImagenOperaciones " >
               <Figure>
                 <Figure.Image
@@ -65,6 +75,10 @@ const Operaciones = () => {
             </div>
 
             <div className=" tarjetasModelo">
+            <img className="num"
+            src={num2}
+            alt="Num2"
+            />
             <div className="ImagenOperaciones">
               <Figure>
                 <Figure.Image
@@ -82,6 +96,10 @@ const Operaciones = () => {
             </div>
 
             <div className=" tarjetasModelo">
+            <img className="num"
+            src={num3}
+            alt="Num3"
+            />
             <div className="ImagenOperaciones">
               <Figure>
                 <Figure.Image
@@ -99,6 +117,10 @@ const Operaciones = () => {
             </div>
 
             <div className="tarjetasModelo">
+            <img className="num"
+            src={num4}
+            alt="Num4"
+            />
             <div className="ImagenOperaciones">
               <Figure className="transporte">
                 <Figure.Image
@@ -116,6 +138,10 @@ const Operaciones = () => {
             </div>
 
             <div className="tarjetasModelo">
+            <img className="num"
+            src={num5}
+            alt="Num5"
+            />
             <div className="ImagenOperaciones">
               <Figure>
                 <Figure.Image
@@ -133,6 +159,10 @@ const Operaciones = () => {
             </div>
 
             <div className="tarjetasModelo">
+            <img className="num"
+            src={num6}
+            alt="Num6"
+            />
             <div className="ImagenOperaciones">
               <Figure>
                 <Figure.Image
