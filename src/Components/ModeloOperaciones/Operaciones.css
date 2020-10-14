@@ -16,7 +16,7 @@
 }
 
 .parrafo1 {
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto";
     font-style: normal;
     font-weight: normal;
     color: #333333;
@@ -32,20 +32,18 @@
 }
 
 .CarruselOperaciones{
-    
-    height: 450px;
-    margin-left: 50px;
+   height: 450px;
     margin-top: 80px;
+    padding-left: 13px;
   
-   
 }
 
 .tarjetasModelo{
     width: 355px;
     height: 395px;
-    right: 0.28%;
-    right: 0.28%;
-  
+    margin-left: 118px;
+    margin-right: 400px;
+ 
     padding-top: 49.19px;
     padding-left: 86px;
     background: #FFFFFF;
@@ -89,4 +87,13 @@
     font-size: 18px;
     line-height: 21px;
     color: #4F4F4F;
+}
+
+.num{
+    width: 50px;
+    height: 50px;
+    z-index: -1;
+    margin-left: -60px;
+    margin-top: -20px;
+    
 }

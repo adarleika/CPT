@@ -36,26 +36,32 @@ margin-bottom: 182px;
 
 }
 
-.btn-ttc,
-.btn-ttc:hover,
-.btn-ttc:active {
+
+
+.btnCarrusel {
     width: 338px;
     height: 58px;
     left: 118px;
     top: 775px;
-
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
     line-height: 20px;
-    
     color:  #F9F9F9;
-
     border: 4px solid #F9F9F9;
     box-sizing: border-box;
     border-radius: 10px;
-  
+	background-color: transparent;
+    margin-top: 1.5%;
+    color: #f9f9f9;
+	
+}
+
+.btnCarrusel:hover {
+	background: #f9f9f9;
+	border: 4px solid #f9f9f9;
+	color: #4f4f4f;
 }
 
 .imagenCarrusel{
