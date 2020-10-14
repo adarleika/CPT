@@ -1,39 +1,13 @@
 .carouselMensaje{
-    
-
-    
-    font-style: normal;
-    font-weight: normal;
-   
-    line-height: 56px;
     display: flex;
     align-items: center;
     text-align: left;
-    color: #FFFFFF;
-
-    position: absolute;
-
-
-
-
-
-font-family: 'Roboto', sans-serif;
-	font-size: 2.5em;
-left:  118px;
-
-    top: 600px;
+    left:  128px;
+    top: 650px;
+    width: 960px;
+    margin-bottom: 182px;
+    justify-content: space-around;
    
-width: 600px;
-
-left: 118px;
-margin-bottom: 182px;
-
-
-
-
-
-
-
 }
 
 
@@ -41,7 +15,7 @@ margin-bottom: 182px;
 .btnCarrusel {
     width: 338px;
     height: 58px;
-    left: 118px;
+    margin-left: 364px;
     top: 775px;
     font-family: Roboto;
     font-style: normal;
@@ -70,11 +44,45 @@ margin-bottom: 182px;
     
 }
 
-
 .imagenCarrusel2{
   
     transform: matrix(-1, 0, 0, 1, 0, 0);
     width: 100%;
     height: 100vh;
     
+}
+
+.tituloPequeño{
+    width: 1000px;
+    margin-left: 364px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    color: #F9F9F9;
+}
+
+.tituloCentral{
+    width: 1000px;
+    margin-left: 364px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.flechaHeader{
+    width: 56px;
+    height: 56px;
+    margin-top: 450px;
+    display: flex;
+    justify-content: center;
+    margin-right: 751px;
+
 }
