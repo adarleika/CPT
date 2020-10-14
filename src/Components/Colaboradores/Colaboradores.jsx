@@ -44,17 +44,10 @@ const Colaboradores = () => {
                     <div className="mensajeColaboradores">
                         <h1> Nuestros <strong> Colaboradores</strong></h1>
                         <p>
-                            Contamos con una alianza de colaboradores que desde sus cocinas
-                            proveen de alimento saludable y nutritivo a quienes más lo
-                            necesitan. Nada sería posible sin ellos.
+                            Más de 20 emprendimientos se han unido a la familia de Comida <br />
+                            Para Todos, apoyando desde distintas áreas: <strong>la comunicación, la <br />
+                            organización</strong> y <strong>la gastronomía.</strong>
                             </p>
-                        <p>
-                            ¿Te gustaría unirte a
-                            nuestra red de colaboradores?
-                            </p>
-                        <button className="btn-aprender">
-                            Aprender más
-                        </button>
                     </div>
 
                 </div>

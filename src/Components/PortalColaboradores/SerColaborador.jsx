@@ -33,7 +33,7 @@ const SerColaborador = () => {
                             />
 
                         </ul>
-                    <div className="mensajeSerColaborador">
+                    <div className="mensajeReactivacion">
 
                         <h1><strong>Reactivacion de las PYMES</strong></h1>
                         <ul className="list-unstyled">
@@ -51,7 +51,7 @@ const SerColaborador = () => {
 
                         </ul>
 
-                    <div className="mensajeSerColaborador">
+                    <div className="mensajeAlimentacionSaludable">
 
                         <h1><strong>Alimentación Saludable</strong></h1>
                         <ul className="list-unstyled">
@@ -68,7 +68,7 @@ const SerColaborador = () => {
                             />
 
                         </ul>
-                    <div className="mensajeSerColaborador">
+                    <div className="mensajeEducacion">
                         <h1><strong>Eduación</strong></h1>
 
                         <ul className="list-unstyled">

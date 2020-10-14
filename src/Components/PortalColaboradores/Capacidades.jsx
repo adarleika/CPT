@@ -36,7 +36,7 @@ const Capacidades = () => {
                                 <div className="alimentacion">
 
                                     <ul className="list-unstyled">
-                                    <h1>Alimentación<br />Saludable</h1>
+                                    <h3>Alimentación<br />Saludable</h3>
                                     </ul>
                                 </div>
 
@@ -53,7 +53,7 @@ const Capacidades = () => {
 
                                 <div className="barras">
                                     <ul className="list-unstyled">
-                                        <h1>Emprendimiento</h1>
+                                        <h3>Emprendimiento</h3>
                                     </ul>
                                 </div>
                             </div>
@@ -69,7 +69,7 @@ const Capacidades = () => {
 
                                 <div className="permaCultura">
                                     <ul className="list-unstyled">
-                                        <h1>Permacultura</h1>
+                                        <h3>Permacultura</h3>
                                     </ul>
                                 </div>
                             </div>
@@ -86,7 +86,7 @@ const Capacidades = () => {
 
                                 <div className="buenasPracticas">
                                     <ul className="list-unstyled">
-                                        <h1>Buenas <br /> Prácticas</h1>
+                                        <h3>Buenas Prácticas</h3>
                                     </ul>
                                 </div>
 

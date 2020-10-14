@@ -27,15 +27,15 @@
 
     margin-top: 100px;
 }
-/*
-.imgNutricion {
 
-    margin-left: -48%;
-}
-*/
 
 .alimentacion {
 
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
     margin-left: -6%;
     text-align: center;
 }
@@ -48,7 +48,7 @@
 
 .barras {
 
-    margin-left: 20%;
+    margin-left: 38%;
 }
 
 .imgPlaneta {
@@ -58,17 +58,17 @@
 
 .permaCultura {
 
-    margin-left: 65%;
+    margin-left: 83%;
 }
 
 .imgManoEstrellas {
 
-    margin-left: 150%;
+    margin-left: 130%;
 }
 
 .buenasPracticas{
 
-    margin-left: 160%;
+    margin-left: 145%;
 }
 
 .logosCapacidades {

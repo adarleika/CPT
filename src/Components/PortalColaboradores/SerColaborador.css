@@ -5,7 +5,7 @@
 
 }
 
-.mensajeSerColaborador {
+.mensajeReactivacion {
 
     width: 884px;
     /*height: 147px;*/
@@ -15,8 +15,37 @@
     font-weight: normal;
     font-size: 20px;
     line-height: 23px;
-    margin-top: -111px;
+    margin-top: -115px;
     margin-left: 130px;
+}
+
+.mensajeAlimentacionSaludable {
+
+    width: 884px;
+    /*height: 147px;*/
+    color: #4F4F4F;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    margin-top: -120px;
+    margin-left: 130px;
+}
+
+.mensajeEducacion {
+
+    width: 884px;
+    /*height: 147px;*/
+    color: #4F4F4F;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    margin-top: -127px;
+    margin-left: 130px;
+
 }
 
 .msjSerColaborador {
@@ -42,7 +71,7 @@
     width: 490px;
     height: 490px;
     border-radius: 100px;
-    margin-top: -530px;
+    margin-top: -51%;
     margin-left: 65%;
 }
 
@@ -50,3 +79,14 @@
     margin-top: 30px;
     margin-right: 150px;
 }
+
+.imgNave  {
+    margin-top: 20px;
+}
+
+.imgHuerta, .imgFoco {
+
+    margin-top: 40px;
+}
+
+

@@ -7,7 +7,7 @@ const Sumate = () => {
     return (
         <div className="containerSumate px-lg-2 pt-5 pb-2 mb-2">
             <div className="footer-meddle">
-                <div className="main-container px-lg-4 pt-5 pb-6">
+                <div className="main-containerSumate px-lg-4 pt-5 pb-6">
                     <div className="row">
 
                         <div className="logoMasas">
@@ -59,7 +59,6 @@ const Sumate = () => {
                             <li><input className="emprendimiento" placeholder="Nombre de tu Emprendimiento"></input></li>
                             <li><input className="info" placeholder="¿Cómo te enteraste de nosotros?"></input></li>
                             <li><input className="horario" placeholder="Coméntanos tu disponibilidad horaria para contactarte"></input></li>
-                            <li><textarea className="elmensaje" placeholder="Mensaje"></textarea></li>
 
                             <div className="enviar">
                                     <button className="btn-sumate">

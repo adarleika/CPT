@@ -23,20 +23,7 @@
     margin: auto;
 }
 
-.btn-aprender {
-    width: 212px;
-    height: 58px;
-    color: #FA6E20;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 24px;
-    line-height: 28px;
-    border: 2px solid #FA6E20;
-    box-sizing: border-box;
-    border-radius: 10px;
 
-}
 
 .losColaboradores {
    display: flex;
@@ -51,12 +38,7 @@
     margin-top: 30px;
 }
 
-.btn-aprender:hover {
-    cursor: pointer;
-    background: linear-gradient(180deg, #FF9029 0%, #F34B14 100%);
-    color: #F9F9F9;
-    border: none;
-}
+
 
 .main-container {
 
